@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lingo3d-react": "^1.2.156",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
